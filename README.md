@@ -1,8 +1,8 @@
 ### Hi there 👋
-I'm Dang Quoc Thinh, 
+I'm Dang Quoc Thinh. 
 I was born on August 28, 2005, 
 My hometown is Nha Trang, Khanh Hoa, Vietnam. 
-I am currently a student studying Computer Science at the University of Information Technology - Ho Chi Minh City National University.
+And I'm currently a student studying Computer Science at the University of Information Technology - Ho Chi Minh City National University.
 <!--
 **dqthjnh/dqthjnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
